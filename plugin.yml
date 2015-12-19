@@ -1,0 +1,6 @@
+main: me.thrisboss.luckpvp.Main
+name: LuckPvP
+version: 1.0.0
+description: LuckPvP plugin
+commands:
+    lpvp:
